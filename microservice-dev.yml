@@ -1,6 +1,6 @@
 profile: dev-1.0
 elearning:
   invitation:
-      url: http://elearning-invitation-api.dev.web.nd
+    url: http://elearning-invitation-api.dev.web.nd
     gateway:
       url: http://elearning-invitation-gateway.dev.web.nd
